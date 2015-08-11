@@ -1,1 +1,3 @@
 print ("hello world!")
+print ("hello everybody!")
+print ("how do you do?")
